@@ -18,8 +18,8 @@ const valorant = require('valorant-fetch');
 (async() => {
 
 let data = await valorant.getAgent('omen')
-console.log(example) // Returns the omen information as objects
-console.log(example.biography)// Returns the omen's biography as an object
+console.log(data) // Returns the omen information as objects
+console.log(data.biography)// Returns the omen's biography as an object
 
 })()
 ````
@@ -30,8 +30,8 @@ const valorant = require('valorant-fetch');
 (async() => {
 
 let data = await valorant.getMap('split')
-console.log(example) // Returns the split information as objects
-console.log(example.photos)// Returns the split photos as an array in the object
+console.log(data) // Returns the split information as objects
+console.log(data.photos)// Returns the split photos as an array in the object
 
 })()
 ````  
@@ -121,6 +121,8 @@ If you get an error, you can come to our discord support server below.
 [Support Server](https://discord.gg/4agCuVt)
 
 ## Changelog
+
+##### 1.0.2  -  README.md Update
 
 ##### 1.0.1  -  README.md Update
 

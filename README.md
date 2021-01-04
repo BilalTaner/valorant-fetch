@@ -11,9 +11,9 @@
   
 ## You can do the attached sample to get the information.
 
-###### Get Agent
+##### Get Agent
 ````js
-const valorant = require('./index');
+const valorant = require('valorant-fetch');
 
 (async() => {
 
@@ -23,9 +23,9 @@ console.log(example.biography)// Returns the omen's biography as an object
 
 })()
 ````
-###### Get Map
+##### Get Map
 ````js
-const valorant = require('./index');
+const valorant = require('valorant-fetch');
 
 (async() => {
 
@@ -117,6 +117,11 @@ console.log(example.photos)// Returns the split photos as an array in the object
 ## WARNING!!
 
 If you get an error, you can come to our discord support server below.
-
   
 [Support Server](https://discord.gg/4agCuVt)
+
+## Changelog
+
+##### 1.0.1  -  README.md Update
+
+##### 1.0.0  -  Module published.

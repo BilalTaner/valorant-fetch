@@ -38,7 +38,7 @@ console.log(example.photos)// Returns the split photos as an array in the object
 ## Example Usage Screenshot
 [Example Usage](https://prnt.sc/wfx671)
 
-##### Example OUTPUT For RAZE AGENT
+##### Example OUTPUT for raze agent
 ````js
     {
       "id": "raze",
@@ -100,7 +100,7 @@ console.log(example.photos)// Returns the split photos as an array in the object
     }
   }
 ````  
-##### Example OUTPUT For Split Map
+##### Example OUTPUT for split map
 ````js
 {
   id: 'split',

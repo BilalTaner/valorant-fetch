@@ -36,7 +36,7 @@ console.log(example.photos)// Returns the split photos as an array in the object
 })()
 ````  
 ## Example Usage Screenshot
-![Example Usage](https://prnt.sc/wfx671)
+[Example Usage](https://prnt.sc/wfx671)
 
 ##### Example OUTPUT For RAZE AGENT
 ````js

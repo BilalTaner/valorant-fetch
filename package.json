@@ -1,14 +1,14 @@
 {
   "name": "valorant-fetch",
-  "version": "1.0.4",
-  "description": "Valorant Web Scrapper with Get Function (valorantinfo module v2)",
-  "main": "index.js",
+  "version": "1.0.5",
+  "description": "Provides information about valorant agents and maps.",
+  "main": "dist",
   "keywords": [
     "valorant",
     "valorant api",
     "valorant agent",
     "lol-valorant",
-    "lol-api",
+    "valorant-api",
     "valorant-web"
   ],
   "scripts": {

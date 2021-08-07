@@ -108,28 +108,26 @@ console.log(data.photos); // Returns the split photos as an array in the object
     "about_map": "If you want to go far, you’ll have to go up. A pair of sites split by an elevated center allows for rapid movement using two rope ascenders. Each site is built with a looming tower vital for control. Remember to watch above before it all blows sky-high.",
     "coordinate": ["35°41'N139°41'E", "Japan"],
     "callouts": [
-      [
-        "A Site",
-        "B Site",
-        "Alley",
-        "Back",
-        "Bottom",
-        "Garage",
-        "Link",
-        "Lobby",
-        "Mail",
-        "Main",
-        "Rafters",
-        "Ramps",
-        "Screens",
-        "Sewer",
-        "Site",
-        "Spawn",
-        "Stairs",
-        "Top",
-        "Tower",
-        "Vent"
-      ]
+      "A Site",
+      "B Site",
+      "Alley",
+      "Back",
+      "Bottom",
+      "Garage",
+      "Link",
+      "Lobby",
+      "Mail",
+      "Main",
+      "Rafters",
+      "Ramps",
+      "Screens",
+      "Sewer",
+      "Site",
+      "Spawn",
+      "Stairs",
+      "Top",
+      "Tower",
+      "Vent"
     ]
   }
 }
@@ -142,6 +140,8 @@ If you get an error, you can come to our discord support server below.
 [Support Server](https://discord.gg/4agCuVt)
 
 ## Changelog
+
+##### 1.0.5 - README.md Update and bugs fix
 
 ##### 1.0.4 - README.md Update, Characters update, Maps update, Removed agent skills, TypeScript rewrite
 

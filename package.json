@@ -1,6 +1,6 @@
 {
   "name": "valorant-fetch",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Provides information about valorant agents and maps.",
   "main": "dist",
   "keywords": [

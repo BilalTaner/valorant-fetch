@@ -141,6 +141,12 @@ If you get an error, you can come to our discord support server below.
 
 ## Changelog
 
+##### 2.0.1 - Bugs fixed.
+
+##### 2.0.0 - Some Changes for Agents, Types and Functions.
+
+##### 1.0.6 - Bugs fixed.
+
 ##### 1.0.5 - README.md Update and bugs fix
 
 ##### 1.0.4 - README.md Update, Characters update, Maps update, Removed agent skills, TypeScript rewrite

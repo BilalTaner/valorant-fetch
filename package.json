@@ -1,6 +1,6 @@
 {
   "name": "valorant-fetch",
-  "version": "1.0.6",
+  "version": "2.0.1",
   "description": "Provides information about valorant agents and maps.",
   "main": "dist",
   "keywords": [
@@ -15,10 +15,12 @@
     "format": "prettier --write .",
     "start": "node dist/index.js",
     "dev": "nodemon index.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "preinstall": "tsc"
   },
   "author": "shynox",
   "license": "MIT",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/BilalTaner/valorant-fetch.git"

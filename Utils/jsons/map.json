@@ -56,7 +56,7 @@
     "name": "Ice Box",
     "photos": {
       "minimap": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt727aeefa1875f8ce/5fc9954afd99385ff600b0f6/Icebox_1a.jpg",
-      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/1/1c/TX_Map_Port_FogOfWar.png/revision/latest?cb=20201015084052",
+      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/c/cf/Icebox_minimap.png",
       "screenshot_1": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9ef7b41910a14118/5f80debff6c586323f8b17a3/icebox_1.jpg",
       "screenshot_2": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6c01692b82ba6ace/5f80debe9245d74a2063d3c5/icebox_2.jpg",
       "screenshot_3": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta5558199bebb5107/5f80debfa50ed742e7fca4b9/icebox_3.jpg",
@@ -150,7 +150,7 @@
     "name": "Haven",
     "photos": {
       "minimap": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltedb5d57941e4f3f5/5ecd64c14d187c101f3f2484/haven-minimap-2.png",
-      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/1/13/Haven_mini-map.png/revision/latest/scale-to-width-down/350?cb=20200408013354",
+      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/2/25/Haven_minimap.png",
       "screenshot_1": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt7df0b99a582cc5aa/5eabe987b8a6356e4ddc0ca4/haven1.jpg",
       "screenshot_2": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt65a4029cdfaf77b4/5eabe9861b51e36d7c1b67ab/haven2.jpg",
       "screenshot_3": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2bd976c100216469/5eabe98608d37e6d82ef7160/haven3.jpg",
@@ -189,7 +189,7 @@
     "name": "Split",
     "photos": {
       "minimap": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2caea7a88362d6aa/5ecd64b0817e574fa1dcc162/split-minimap-2.png",
-      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/f/f2/Split_mini-map.png/revision/latest?cb=20200408012547",
+      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/f/ff/Split_minimap.png",
       "screenshot_1": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt643d33e2defb855c/5eabe9fe248a28605479c547/split1.jpg",
       "screenshot_2": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8114d8ae57703cf8/5ed81946bf4ae52c761ec8e8/split2-2.jpg",
       "screenshot_3": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltdfd43bd79d9b3410/5eabe9fea20afe612d82f833/split3.jpg",
@@ -228,7 +228,7 @@
     "name": "Ascent",
     "photos": {
       "minimap": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt47bef6aa9e43d8ec/5ecd64df96a8996de38bbf8f/ascent-minimap-2.jpg",
-      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/5/55/Ascent-B.png/revision/latest/scale-to-width-down/350?cb=20200510031307",
+      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/0/04/Ascent_minimap.png",
       "screenshot_1": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt930666d9ab927326/5eabe9c45751b2150e57a42c/ascent1.jpg",
       "screenshot_2": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9e24fe356d0faf81/5eabe9c497c0a55d71b7fceb/ascent2.jpg",
       "screenshot_3": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt77e465b8079103af/5eabe9c4af7e315106b479a1/ascent3.jpg",

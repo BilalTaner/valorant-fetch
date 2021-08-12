@@ -141,6 +141,8 @@ If you get an error, you can come to our discord support server below.
 
 ## Changelog
 
+##### 2.0.2 - Map images fixed.
+
 ##### 2.0.1 - Bugs fixed.
 
 ##### 2.0.0 - Some Changes for Agents, Types and Functions.

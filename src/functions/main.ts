@@ -1,12 +1,12 @@
 "use strict";
 
-import agent from "../jsons/characters.json";
-import map from "../jsons/map.json";
-import { agents, maps } from "../@types/types";
+import agent from "../../Utils/jsons/characters.json";
+import map from "../../Utils/jsons/map.json";
+import { agents, maps, AgentReturn, MapReturn } from "../@types/types";
 
-export function getAgent(name: agents) {
+export function getAgent(name: agents): AgentReturn {
   try {
-    const main = agent.find((x) => x.id.startsWith(name));
+    const main: AgentReturn = agent.find((x) => x.id.startsWith(name));
     return main;
   } catch (e: any) {
     const errorTouse: Error = e;
@@ -16,9 +16,9 @@ export function getAgent(name: agents) {
   }
 }
 
-export function getMap(name: maps) {
+export function getMap(name: maps): MapReturn {
   try {
-    const main = map.find((x) => x.id.startsWith(name));
+    const main: MapReturn = map.find((x) => x.id.startsWith(name));
     return main;
   } catch (e: any) {
     const errorTouse: Error = e;

@@ -141,6 +141,12 @@ If you get an error, you can come to our discord support server below.
 
 ## Changelog
 
+##### 3.0.1 - It's last publish for this sesson i promise :(.
+
+##### 3.0.0 - I'am an idiot :(.
+
+##### 2.0.5 - TSC problems are fixed.
+
 ##### 2.0.2 - Map images fixed.
 
 ##### 2.0.1 - Bugs fixed.

@@ -1,7 +1,7 @@
 "use strict";
 
-import agent from "../../Utils/jsons/characters.json";
-import map from "../../Utils/jsons/map.json";
+import agent from "../jsons/characters.json";
+import map from "../jsons/map.json";
 import { agents, maps, AgentReturn, MapReturn } from "../@types/types";
 
 export function getAgent(name: agents): AgentReturn {

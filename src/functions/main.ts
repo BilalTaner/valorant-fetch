@@ -2,9 +2,9 @@
 
 import agent from "../jsons/characters.json";
 import map from "../jsons/map.json";
-import { agents, maps, AgentReturn, MapReturn } from "../@types/types";
+import { Agents, Maps, AgentReturn, MapReturn } from "../@types/types";
 
-export function getAgent(name: agents): AgentReturn {
+export function getAgent(name: Agents): AgentReturn {
   try {
     const main: AgentReturn = agent.find(
       (x) => x.id.startsWith(name) || x.name.startsWith(name),
@@ -16,7 +16,7 @@ export function getAgent(name: agents): AgentReturn {
   }
 }
 
-export function getMap(name: maps): MapReturn {
+export function getMap(name: Maps): MapReturn {
   try {
     const main: MapReturn = map.find(
       (x) => x.id.startsWith(name) || x.name.startsWith(name),

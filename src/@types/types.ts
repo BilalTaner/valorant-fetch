@@ -1,6 +1,6 @@
 "use strict";
 
-export type agents =
+export type Agents =
   | "jett"
   | "raze"
   | "breach"
@@ -18,7 +18,14 @@ export type agents =
   | "astra"
   | "kayo";
 
-export type maps = "breeze" | "icebox" | "bind" | "haven" | "split" | "ascent";
+export type Maps =
+  | "fracture"
+  | "breeze"
+  | "icebox"
+  | "bind"
+  | "haven"
+  | "split"
+  | "ascent";
 
 export type AgentReturn = {
   id: string;
@@ -73,26 +80,25 @@ export type AgentReturn = {
   };
 };
 
-export type MapReturn =
-  {
-      id: string;
-      key: string;
-      name: string;
-      photos: {
-        minimap: string;
-        minimap_2: string;
-        screenshot_1: string;
-        screenshot_2: string;
-        screenshot_3: string;
-        screenshot_4: string;
-        screenshot_5?: string;
-        screenshot_6?: string;
-        screenshot_7?: string;
-        screenshot_8?: string;
-      };
-      informations: {
-        about_map: string;
-        coordinate: string[];
-        callouts: string[];
-      };
-    }
+export type MapReturn = {
+  id: string;
+  key: string;
+  name: string;
+  photos: {
+    minimap: string;
+    minimap_2: string;
+    screenshot_1: string;
+    screenshot_2: string;
+    screenshot_3: string;
+    screenshot_4: string;
+    screenshot_5?: string;
+    screenshot_6?: string;
+    screenshot_7?: string;
+    screenshot_8?: string;
+  };
+  informations: {
+    about_map: string;
+    coordinate: string[];
+    callouts: string[];
+  };
+};

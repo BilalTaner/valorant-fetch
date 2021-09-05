@@ -1,11 +1,52 @@
 [
   {
-    "id": "breeze",
+    "id": "fracture",
     "key": "1",
+    "name": "Fracture",
+    "photos": {
+      "minimap": "https://static.wikia.nocookie.net/valorant/images/1/18/Fracture_minimap.png",
+      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/1/18/Fracture_minimap.png",
+      "screenshot_1": "https://static.wikia.nocookie.net/valorant/images/f/fc/Loading_Screen_Fracture.png",
+      "screenshot_2": "https://static.wikia.nocookie.net/valorant/images/7/78/FracturePreview1.jpg",
+      "screenshot_3": "https://static.wikia.nocookie.net/valorant/images/8/8c/FracturePreview2.jpg",
+      "screenshot_4": "https://static.wikia.nocookie.net/valorant/images/6/62/FracturePreview3.jpg"
+    },
+    "informations": {
+      "about_map": "Fracture is a top-secret experiment site split apart by a radianite-fueled disaster. Flip the script on attackers with aggressive defender positioning on a new dual-biome map. In its simplest form, the map is marked by its H-shape layout with a visual split down the middle that reveals contrasting sides. Long ziplines also connect routes underneath. Like previous maps, keep an eye out for heavy tie-ins to VALORANT lore, including first-time interactive narrative objects.",
+      "coordinate": ["35°48'BI' N 106°08'YQ' W", "USA"],
+      "callouts": [
+        "Attacker Side Bridge",
+        "Attacker Side Spawn",
+        "A Site",
+        "A Link",
+        "A Rope",
+        "A Main",
+        "Gate",
+        "Dish",
+        "Drop",
+        "Door",
+        "Hall",
+        "Bench",
+        "Arcade",
+        "Tower",
+        "Tunnel",
+        "Generator",
+        "Canteen",
+        "Tree",
+        "B Site",
+        "B Link",
+        "B Main",
+        "Defender Side Spawn"
+      ]
+    }
+  },
+  {
+    "id": "breeze",
+    "key": "2",
     "name": "Breeze",
     "photos": {
       "minimap": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1aa82531c6b3a04b/607fa05b33cf413db790d632/breeze_1a.jpg",
-      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/7/78/Breeze_minimap.png/revision/latest/scale-to-width-down/350?cb=20210423171259",
+      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/7/78/Breeze_minimap.png",
       "screenshot_1": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltba64f41bce11904b/607f9e3bc661f15b3da77f85/breeze_1.jpg",
       "screenshot_2": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltde7c2fc29aa0d3a0/607f9e3ce650b13fbe2129d2/breeze_2.jpg",
       "screenshot_3": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt174b8512c8e4d6a5/607f9e3c03ce953dac7563e4/breeze_3.jpg",
@@ -52,7 +93,7 @@
   },
   {
     "id": "icebox",
-    "key": "2",
+    "key": "3",
     "name": "Ice Box",
     "photos": {
       "minimap": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt727aeefa1875f8ce/5fc9954afd99385ff600b0f6/Icebox_1a.jpg",
@@ -105,11 +146,11 @@
   },
   {
     "id": "bind",
-    "key": "3",
+    "key": "4",
     "name": "Bind",
     "photos": {
       "minimap": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltad4274632c983531/5ecd64d04d187c101f3f2486/bind-minimap-2.png",
-      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/d/dd/Bind_mini-map_2.png/revision/latest/scale-to-width-down/185?cb=20200408013537",
+      "minimap_2": "https://static.wikia.nocookie.net/valorant/images/d/dd/Bind_mini-map_2.png",
       "screenshot_1": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc54ad3a88d94a4d6/5eabe92eaf7e315106b4799b/bind1.jpg",
       "screenshot_2": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4d395d5eb0c5aeec/5eabe92d97c0a55d71b7fce5/bind2.jpg",
       "screenshot_3": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt275a73b80ff9eb5a/5eabe92db8a6356e4ddc0c92/bind3.jpg",
@@ -146,7 +187,7 @@
   },
   {
     "id": "haven",
-    "key": "4",
+    "key": "5",
     "name": "Haven",
     "photos": {
       "minimap": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltedb5d57941e4f3f5/5ecd64c14d187c101f3f2484/haven-minimap-2.png",
@@ -185,7 +226,7 @@
   },
   {
     "id": "split",
-    "key": "5",
+    "key": "6",
     "name": "Split",
     "photos": {
       "minimap": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2caea7a88362d6aa/5ecd64b0817e574fa1dcc162/split-minimap-2.png",
@@ -224,7 +265,7 @@
   },
   {
     "id": "ascent",
-    "key": "6",
+    "key": "7",
     "name": "Ascent",
     "photos": {
       "minimap": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt47bef6aa9e43d8ec/5ecd64df96a8996de38bbf8f/ascent-minimap-2.jpg",

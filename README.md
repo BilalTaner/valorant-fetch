@@ -141,6 +141,8 @@ If you get an error, you can come to our discord support server below.
 
 ## Changelog
 
+##### 3.1.0 - Added new Fracture map and fixed some problems.
+
 ##### 3.0.1 - It's last publish for this sesson i promise :(.
 
 ##### 3.0.0 - I'am an idiot :(.

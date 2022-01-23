@@ -833,5 +833,109 @@
       "gender": "Male",
       "region": ["Alternate Timeline Earth", "Future"]
     }
+  },
+  {
+    "id": "chamber",
+    "key": "17",
+    "name": "Chamber",
+    "tags": ["SENTINEL"],
+    "stats": {
+      "P": "NONE",
+      "Q": "HEADHUNTER",
+      "E": "RENDEZVOUS",
+      "C": "TRADEMARK",
+      "X": "TOUR DE FORCE"
+    },
+    "photos": {
+      "icon": "https://static.wikia.nocookie.net/valorant/images/0/09/Chamber_icon.png",
+      "q_icon": "https://static.wikia.nocookie.net/valorant/images/0/06/Headhunter.png",
+      "e_icon": "https://static.wikia.nocookie.net/valorant/images/8/83/Rendezvous.png",
+      "c_icon": "https://static.wikia.nocookie.net/valorant/images/3/3b/Trademark.png",
+      "x_icon": "https://static.wikia.nocookie.net/valorant/images/e/eb/Tour_De_Force.png",
+      "tag_icon": "https://static.wikia.nocookie.net/valorant/images/4/43/SentinelClassSymbol.png"
+    },
+    "videos": {
+      "q_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc97eeaeb138d2155/618d9fb7867d1817d95f3b2b/VAL_broll_EP03-3_Chamber_Q.mp4",
+      "e_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf1c12ab8f1c119bc/618d9fd2fb61e4021ad339f0/VAL_broll_EP03-3_Chamber_E.mp4",
+      "c_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt318d4a246e29106a/618d9fdbf71a3113890e9632/VAL_broll_EP03-3_Chamber_C.mp4",
+      "x_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta111e90b3f2ce476/618d9fde3b08dd14d79a808f/VAL_broll_EP03-3_Chamber_X.mp4"
+    },
+    "descriptions": {
+      "q_desc": "ACTIVATE to equip a heavy pistol. ALT FIRE with the pistol equipped to aim down sights.",
+      "e_desc": "PLACE two teleport anchors. While on the ground and in range of an anchor, REACTIVATE to quickly teleport to the other anchor. Anchors can be picked up to be REDEPLOYED.",
+      "c_desc": "PLACE a trap that scans for enemies. When a visible enemy comes in range, the trap counts down and then destabilizes the terrain around them, creating a lingering field that slows players caught inside of it.",
+      "x_desc": "ACTIVATE to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit. Killing an enemy creates a lingering field that slows players caught inside of it."
+    },
+    "costs": {
+      "q_cost": "100",
+      "e_cost": "FREE",
+      "c_cost": "150",
+      "x_cost": "7 Ulti Point"
+    },
+    "charges": {
+      "q_charges": "8",
+      "e_charges": "1",
+      "c_charges": "2",
+      "x_charges": "1"
+    },
+    "biography": {
+      "story": "Well dressed and well armed, French weapons designer Chamber expels aggressors with deadly precision. He leverages his custom arsenal to hold the line and pick off enemies from afar, with a contingency built for every plan.",
+      "agent_about": "Chamber sports a combover hairstyle and wears a pair of glasses with a thick, rectangular frame. He is seen wearing a blue suit vest over a white long-sleeved shirt, along with a geometrical colorful midnight tie.",
+      "saying": "None of this 'a win is a win' nonsense. We should win big and look good doing it",
+      "gender": "Male",
+      "region": ["France"]
+    }
+  },
+  {
+    "id": "neon",
+    "key": "18",
+    "name": "Neon",
+    "tags": ["DUELIST"],
+    "stats": {
+      "P": "NONE",
+      "Q": "RELAY BOLT",
+      "E": "HIGH GEAR",
+      "C": "FAST LANE",
+      "X": "OVERDRIVE"
+    },
+    "photos": {
+      "icon": "https://static.wikia.nocookie.net/valorant/images/d/d0/Neon_icon.png",
+      "q_icon": "https://static.wikia.nocookie.net/valorant/images/a/ac/Relay_Bolt.png",
+      "e_icon": "https://static.wikia.nocookie.net/valorant/images/7/7f/High_Gear.png",
+      "c_icon": "https://static.wikia.nocookie.net/valorant/images/e/e7/Fast_Lane.png",
+      "x_icon": "https://static.wikia.nocookie.net/valorant/images/a/ab/Overdrive.png",
+      "tag_icon": "https://static.wikia.nocookie.net/valorant/images/f/fd/DuelistClassSymbol.png"
+    },
+    "videos": {
+      "q_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf634e203f29987a5/61d8a91abf9cb8387cc1d9c8/VAL_Neon_Ability-Q_Preview_Stun_noHUD_Web_h264.mp4",
+      "e_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt99e20f893b806cc8/61d8a9608aabbf6426b7523a/VAL_Neon_Ability-E_Preview_Sprint_noHUD_Web_h264.mp4",
+      "c_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt023814e24e6cad2f/61d8a98914ef402247ceab3a/VAL_Neon_Ability-C_Preview_Walls_noHUD_Web_h264.mp4",
+      "x_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcbe0e9c4b801f025/61d8a9dfef206c6c5e4941ba/VAL_Neon_Ability-X_Preview_Ult_noHUD_Web_h264.mp4"
+    },
+    "descriptions": {
+      "q_desc": "INSTANTLY throw an energy bolt that bounces once. Upon hitting each surface, the bolt electrifies the ground below with a concussive blast.",
+      "e_desc": "INSTANTLY channel Neon’s power for increased speed. When charged, ALT FIRE to trigger an electric slide. Slide charge resets every two kills.",
+      "c_desc": "FIRE two energy lines forward on the ground that extend a short distance or until they hit a surface. The lines rise into walls of static electricity that block vision and damage enemies passing through them.",
+      "x_desc": "Unleash Neon’s full power and speed for a short duration. FIRE to channel the power into a deadly lightning beam with high movement accuracy. The duration resets on each kill."
+    },
+    "costs": {
+      "q_cost": "200",
+      "e_cost": "FREE",
+      "c_cost": "300",
+      "x_cost": "7 Ulti Point"
+    },
+    "charges": {
+      "q_charges": "2",
+      "e_charges": "1",
+      "c_charges": "1",
+      "x_charges": "1"
+    },
+    "biography": {
+      "story": "Filipino Agent, Neon, surges forward at shocking speeds, discharging bursts of bioelectric radiance as fast as her body generates it. She races ahead to catch enemies off guard, then strikes them down quicker than lightning.",
+      "agent_about": "Neon is a young Filipino woman with olive skin and a short stature. She sports an athletic attire with black and blue running leggings along with a pair of sneakers.",
+      "saying": "You made me care. Big mistake",
+      "gender": "Female",
+      "region": ["Philippines"]
+    }
   }
 ]

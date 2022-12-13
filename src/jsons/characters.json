@@ -35,12 +35,12 @@
       "q_cost": "150",
       "e_cost": "FREE",
       "c_cost": "200",
-      "x_cost": "6 Ulti Point"
+      "x_cost": "7 Ulti Point"
     },
     "charges": {
       "q_charges": "2",
       "e_charges": "1",
-      "c_charges": "3",
+      "c_charges": "2",
       "x_charges": "1"
     },
     "biography": {
@@ -86,7 +86,7 @@
     "costs": {
       "q_cost": "200",
       "e_cost": "FREE",
-      "c_cost": "400",
+      "c_cost": "300",
       "x_cost": "8 Ulti Point"
     },
     "charges": {
@@ -139,10 +139,10 @@
       "q_cost": "250",
       "e_cost": "FREE",
       "c_cost": "200",
-      "x_cost": "7 Ulti Point"
+      "x_cost": "8 Ulti Point"
     },
     "charges": {
-      "q_charges": "3",
+      "q_charges": "2",
       "e_charges": "1",
       "c_charges": "1",
       "x_charges": "1"
@@ -188,9 +188,9 @@
       "x_desc": "EQUIP a tactical map. FIRE to begin teleporting to the selected location. While teleporting, Omen will appear as a Shade that can be destroyed by an enemy to cancel his teleport."
     },
     "costs": {
-      "q_cost": "300",
-      "e_cost": "1 + 1 (NOT FREE)",
-      "c_cost": "150",
+      "q_cost": "250",
+      "e_cost": "FREE + 150 ",
+      "c_cost": "100",
       "x_cost": "7 Ulti Point"
     },
     "charges": {
@@ -241,14 +241,14 @@
     },
     "costs": {
       "q_cost": "250",
-      "e_cost": "100",
-      "c_cost": "100",
+      "e_cost": "FREE + 2x100",
+      "c_cost": "200",
       "x_cost": "7 Ulti Point"
     },
     "charges": {
       "q_charges": "1",
       "e_charges": "1 + 2 (NOT FREE)",
-      "c_charges": "2",
+      "c_charges": "1",
       "x_charges": "1"
     },
     "biography": {
@@ -294,7 +294,7 @@
     "costs": {
       "q_cost": "250",
       "e_cost": "FREE",
-      "c_cost": "200",
+      "c_cost": "150",
       "x_cost": "6 Ulti Point"
     },
     "charges": {
@@ -454,7 +454,7 @@
       "q_cost": "200",
       "e_cost": "FREE",
       "c_cost": "200",
-      "x_cost": "7 Ulti Point"
+      "x_cost": "8 Ulti Point"
     },
     "charges": {
       "q_charges": "1",
@@ -659,10 +659,10 @@
       "x_desc": "EQUIP a Seeker trinket. FIRE to send out three Seekers to track down the three closest enemies. If a Seeker reaches its target, it nearsights them."
     },
     "costs": {
-      "q_cost": "250",
+      "q_cost": "300",
       "e_cost": "250",
-      "c_cost": "200",
-      "x_cost": "6 Ulti Point"
+      "c_cost": "150",
+      "x_cost": "7 Ulti Point"
     },
     "charges": {
       "q_charges": "1",
@@ -712,14 +712,14 @@
     },
     "costs": {
       "q_cost": "250",
-      "e_cost": "FREE",
+      "e_cost": "FREE + 150",
       "c_cost": "100",
-      "x_cost": "6 Ulti Point"
+      "x_cost": "7   Ulti Point"
     },
     "charges": {
       "q_charges": "2",
-      "e_charges": "1",
-      "c_charges": "2",
+      "e_charges": "2",
+      "c_charges": "1",
       "x_charges": "1"
     },
     "biography": {
@@ -818,7 +818,7 @@
       "q_cost": "250",
       "e_cost": "FREE",
       "c_cost": "200",
-      "x_cost": "7 Ulti Point"
+      "x_cost": "8 Ulti Point"
     },
     "charges": {
       "q_charges": "2",
@@ -867,15 +867,15 @@
       "x_desc": "ACTIVATE to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit. Killing an enemy creates a lingering field that slows players caught inside of it."
     },
     "costs": {
-      "q_cost": "100",
+      "q_cost": "150 per bullet",
       "e_cost": "FREE",
-      "c_cost": "150",
-      "x_cost": "7 Ulti Point"
+      "c_cost": "200",
+      "x_cost": "8 Ulti Point"
     },
     "charges": {
       "q_charges": "8",
       "e_charges": "1",
-      "c_charges": "2",
+      "c_charges": "1",
       "x_charges": "1"
     },
     "biography": {
@@ -935,7 +935,121 @@
       "agent_about": "Neon is a young Filipino woman with olive skin and a short stature. She sports an athletic attire with black and blue running leggings along with a pair of sneakers.",
       "saying": "You made me care. Big mistake",
       "gender": "Female",
-      "region": ["Philippines"]
+      "region": [
+        "Philippines"
+      ]
+    }
+  },
+  {
+    "id": "fade",
+    "key": "19",
+    "name": "Fade",
+    "tags": [
+      "INITIATOR"
+    ],
+    "stats": {
+      "P": "NONE",
+      "Q": "SEIZE",
+      "E": "HAUNT",
+      "C": "PROWLER",
+      "X": "NIGHTFALL"
+    },
+    "photos": {
+      "icon": "https://static.wikia.nocookie.net/valorant/images/a/a6/Fade_icon.png",
+      "q_icon": "https://static.wikia.nocookie.net/valorant/images/1/1f/Seize.png",
+      "e_icon": "https://static.wikia.nocookie.net/valorant/images/3/37/Haunt.png",
+      "c_icon": "https://static.wikia.nocookie.net/valorant/images/6/68/Prowler.png",
+      "x_icon": "https://static.wikia.nocookie.net/valorant/images/9/90/Nightfall.png",
+      "tag_icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2965c8a8dce0467d/5eaa0685e6f6795e530a1cbe/Initiator.png"
+    },
+    "videos": {
+      "q_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbec73caca7bf1045/62701777bae21939d5444b9e/Q-seize_video_NEW.mp4",
+      "e_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt82a21218065dc472/625f2c47fd9afd4b1fe300ea/E-Haunt_video.mp4",
+      "c_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf4e7a6525fe6ec42/625f2c7cfd9afd4b1fe300ee/C-Prowler_video.mp4",
+      "x_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt75dfbdc2fbf6bfe1/625f2ba62777714c51b313be/X-Nightfall_Video.mp4"
+    },
+    "descriptions": {
+      "q_desc": "Equip an orb of nightmare ink. FIRE to throw the orb which will plummet to the ground after a set amount of time. Upon hitting the ground, the ink will explode and create a zone in which enemies who are caught in it cannot escape the zone by normal means. RE-USE the ability to drop the projectile early in-flight.",
+      "e_desc": "Equip a nightmarish entity. FIRE to throw the orb which will plummet to the ground after a set amount of time. Upon hitting the ground, the orb will turn into a nightmarish entity that will reveal the location of enemies caught in its line of sight. Enemies can destroy this entity. RE-USE the ability to drop the projectile early in-flight.",
+      "c_desc": "EQUIP a Prowler. FIRE will send the Prowler out, causing it to travel in a straight line. The Prowler will lock onto any enemies or trails in their frontal vision cone and chase them, nearsighting them if it reaches them. HOLD the FIRE button to steer the Prowler in the direction of your crosshair.",
+      "x_desc": "EQUIP the power of Fear. FIRE to send out a wave of nightmare energy that can traverse through walls. The energy creates a trail to the opponent as well as deafens and decays them."
+    },
+    "costs": {
+      "q_cost": "200",
+      "e_cost": "FREE",
+      "c_cost": "250",
+      "x_cost": "8 Ulti Point"
+    },
+    "charges": {
+      "q_charges": "1",
+      "e_charges": "1",
+      "c_charges": "2",
+      "x_charges": "1"
+    },
+    "biography": {
+      "story": "Turkish bounty hunter, Fade, unleashes the power of raw nightmares to seize enemy secrets. Attuned with terror itself, she hunts targets and reveals their deepest fears—before crushing them in the dark.",
+      "agent_about": "Fade is a lighter-skinned slim woman, with her dramatic black rectangular eyeshadow, black lipstick, dark oval marking on her face and neck and hair that transitions from black to white, she is given a highly grungy aesthetic.",
+      "saying": "It doesn't matter where they hide, I'll find them. I always find them.",
+      "gender": "Female",
+      "region": [
+        "Turkey"
+      ]
+    }
+  },
+  {
+    "id": "harbor",
+    "key": "20",
+    "name": "Harbor",
+    "tags": [
+      "CONTROLLER"
+    ],
+    "stats": {
+      "P": "NONE",
+      "Q": "COVE",
+      "E": "HIGH TIDE",
+      "C": "CASCADE",
+      "X": "RECKONING"
+    },
+    "photos": {
+      "icon": "https://static.wikia.nocookie.net/valorant/images/f/f3/Harbor_icon.png",
+      "q_icon": "https://static.wikia.nocookie.net/valorant/images/a/ab/Cove.png",
+      "e_icon": "https://static.wikia.nocookie.net/valorant/images/4/4a/High_Tide.png",
+      "c_icon": "https://static.wikia.nocookie.net/valorant/images/f/f8/Cascade.png",
+      "x_icon": "https://static.wikia.nocookie.net/valorant/images/2/20/Reckoning.png",
+      "tag_icon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt63e21ca9443dce8e/5eb270f43b09c042ddca1353/Controller.png"
+    },
+    "videos": {
+      "q_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt1a7cd79cbb632c3c/6349d6906a938c238802a820/Harbor_Q_v001_web.mp4",
+      "e_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blte6e80f8936913459/6349d682b0662c1e9a67222a/Harbor_E_v001_web.mp4",
+      "c_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8fb30bd82f7dcd97/6349d669b2dba3104a11dde4/Harbor_C_v001_web.mp4",
+      "x_video": "https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0536369c7a3b7986/6349d677c96b72418f47a8c4/Harbor_X_v001_web.mp4"
+    },
+    "descriptions": {
+      "q_desc": "EQUIP a sphere of shielding water. FIRE to throw. ALT FIRE to underhand throw. Upon impacting the ground, spawn a destructible water shield that blocks bullets.",
+      "e_desc": "EQUIP a wall of water. FIRE to send the water forward along the ground. HOLD FIRE to guide the water in the direction of your crosshair, passing through the world, spawning a wall along the water’s path. ALT FIRE while bending to stop the water early. Players hit are SLOWED.",
+      "c_desc": "EQUIP a wave of water. FIRE to send the wave rolling forward and through walls. RE- USE to stop the wave. Players hit are SLOWED.",
+      "x_desc": "EQUIP the full power of your Artifact. FIRE to summon a geyser pool on the ground. Enemy players in the area are targeted by successive geyser strikes. Players caught within a strike are CONCUSSED."
+    },
+    "costs": {
+      "q_cost": "350",
+      "e_cost": "FREE",
+      "c_cost": "150",
+      "x_cost": "7 Ulti Point"
+    },
+    "charges": {
+      "q_charges": "1",
+      "e_charges": "1",
+      "c_charges": "2",
+      "x_charges": "1"
+    },
+    "biography": {
+      "story": "Hailing from India’s coast, Harbor storms the field wielding ancient technology with dominion over water. He unleashes frothing rapids and crushing waves to shield his allies and pummel those that oppose him.",
+      "agent_about": "Harbor has a dark brown complexion, with matching brown eyes, a full brown beard, and long, dark hair sporting a bun.",
+      "saying": "Look at us! I've never seen a more beautiful group of heavily armed soldiers.",
+      "gender": "Male",
+      "region": [
+        "India"
+      ]
     }
   }
 ]

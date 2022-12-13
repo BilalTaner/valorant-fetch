@@ -301,5 +301,53 @@
         "Wine"
       ]
     }
+  },
+  {
+    "id": "pearl",
+    "key": "8",
+    "name": "Pearl",
+    "photos": {
+      "minimap": "https://static.wikia.nocookie.net/valorant/images/6/63/Pearl_minimap.png",
+      "minimap_2": "-",
+      "screenshot_1": "https://static.wikia.nocookie.net/valorant/images/e/e1/Pearl_Screenshot_1.jpg",
+      "screenshot_2": "https://static.wikia.nocookie.net/valorant/images/8/8f/Pearl_Screenshot_2.jpg",
+      "screenshot_3": "https://static.wikia.nocookie.net/valorant/images/7/72/Pearl_Screenshot_3.jpg",
+      "screenshot_4": "https://static.wikia.nocookie.net/valorant/images/9/9b/Pearl_Screenshot_4.jpg",
+      "screenshot_5": "https://static.wikia.nocookie.net/valorant/images/4/4d/Pearl_Screenshot_5.jpg",
+      "screenshot_6": "https://static.wikia.nocookie.net/valorant/images/9/9d/Pearl_Screenshot_6.jpg",
+      "screenshot_7": "https://static.wikia.nocookie.net/valorant/images/f/f9/Pearl_Screenshot_7.jpg",
+      "screenshot_8": "https://static.wikia.nocookie.net/valorant/images/5/5a/Pearl_Screenshot_8.jpg"
+    },
+    "informations": {
+      "about_map": "Attackers push down into the Defenders on this two-site map set in a vibrant, underwater city. Pearl is a geo-driven map with no mechanics. Take the fight through a compact mid or the longer range wings in our first map set in Omega Earth.",
+      "coordinate": ["38°42'ED\"N8 9°08'XS\"W8", "Portugal"],
+      "callouts": [
+        "A Site",
+        "B Site",
+        "Arch",
+        "Art",
+        "Club",
+        "Connector",
+        "Courtyard",
+        "Doors",
+        "Dugout",
+        "Flowers",
+        "Hall",
+        "Link",
+        "Main",
+        "Plaza",
+        "Ramp",
+        "Records",
+        "Restaurant",
+        "Screen",
+        "Secret",
+        "Shops",
+        "Spawn",
+        "Top",
+        "Tower",
+        "Tunnel",
+        "Water"
+      ]
+    }
   }
 ]
